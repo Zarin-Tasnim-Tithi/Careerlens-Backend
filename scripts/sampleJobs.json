@@ -1,0 +1,567 @@
+[
+  {
+    "id": "op-01",
+    "company": "Nexora Labs",
+    "mark": "N",
+    "tone": "mint",
+    "title": "Frontend Developer Intern",
+    "type": "Internship",
+    "mode": "Hybrid",
+    "location": "Dhaka",
+    "experience": "Student",
+    "pay": "৳18k–25k /mo",
+    "posted": 1,
+    "deadline": 9,
+    "featured": true,
+    "required": [
+      "React",
+      "JavaScript",
+      "HTML",
+      "CSS",
+      "Git & GitHub"
+    ],
+    "preferred": [
+      "TypeScript",
+      "Figma"
+    ],
+    "benefits": [
+      "Mentorship",
+      "Flexible hours",
+      "Learning stipend"
+    ],
+    "summary": "Help a product-focused team craft fast, accessible, delightful web interfaces.",
+    "responsibilities": [
+      "Build reusable components in React",
+      "Work with designers to implement responsive UI",
+      "Improve accessibility and user experience",
+      "Collaborate through GitHub pull requests"
+    ]
+  },
+  {
+    "id": "op-02",
+    "company": "OrbitStack",
+    "mark": "O",
+    "tone": "violet",
+    "title": "MERN Stack Developer",
+    "type": "Full-time",
+    "mode": "On-site",
+    "location": "Dhaka",
+    "experience": "1–2 years",
+    "pay": "৳45k–70k /mo",
+    "posted": 2,
+    "deadline": 21,
+    "featured": true,
+    "required": [
+      "JavaScript",
+      "React",
+      "Node.js",
+      "Express.js",
+      "MongoDB"
+    ],
+    "preferred": [
+      "REST API",
+      "Git & GitHub",
+      "Deployment"
+    ],
+    "benefits": [
+      "Health support",
+      "Performance bonus",
+      "Career growth"
+    ],
+    "summary": "Build complete product features across frontend, API and document database layers.",
+    "responsibilities": [
+      "Develop REST APIs with Express.js",
+      "Build interactive React workflows",
+      "Model application data in MongoDB",
+      "Participate in code reviews and testing"
+    ]
+  },
+  {
+    "id": "op-03",
+    "company": "BluePeak Digital",
+    "mark": "B",
+    "tone": "sky",
+    "title": "Junior UI Engineer",
+    "type": "Full-time",
+    "mode": "Remote",
+    "location": "Remote",
+    "experience": "Fresh graduate",
+    "pay": "৳30k–48k /mo",
+    "posted": 3,
+    "deadline": 17,
+    "featured": false,
+    "required": [
+      "HTML",
+      "CSS",
+      "JavaScript",
+      "React"
+    ],
+    "preferred": [
+      "Figma",
+      "TypeScript",
+      "Git & GitHub"
+    ],
+    "benefits": [
+      "Work from anywhere",
+      "Remote setup",
+      "Mentorship"
+    ],
+    "summary": "Transform ambitious ideas into thoughtful, responsive web experiences.",
+    "responsibilities": [
+      "Build UI from design systems",
+      "Ensure mobile and desktop responsiveness",
+      "Collaborate on design handoffs",
+      "Optimize page performance"
+    ]
+  },
+  {
+    "id": "op-04",
+    "company": "CloudNest Technologies",
+    "mark": "C",
+    "tone": "peach",
+    "title": "Backend Engineering Intern",
+    "type": "Internship",
+    "mode": "On-site",
+    "location": "Chattogram",
+    "experience": "Student",
+    "pay": "৳12k–18k /mo",
+    "posted": 4,
+    "deadline": 6,
+    "featured": false,
+    "required": [
+      "Node.js",
+      "JavaScript",
+      "REST API",
+      "MongoDB"
+    ],
+    "preferred": [
+      "Express.js",
+      "Git & GitHub",
+      "Authentication"
+    ],
+    "benefits": [
+      "Team mentorship",
+      "Practical projects",
+      "Certificate"
+    ],
+    "summary": "Learn how real-world APIs, databases and backend services come together.",
+    "responsibilities": [
+      "Develop endpoints with Node.js",
+      "Work with MongoDB collections",
+      "Write simple API documentation",
+      "Support backend debugging"
+    ]
+  },
+  {
+    "id": "op-05",
+    "company": "TeraBloom Studio",
+    "mark": "T",
+    "tone": "pink",
+    "title": "Product Design & UI Intern",
+    "type": "Internship",
+    "mode": "Remote",
+    "location": "Remote",
+    "experience": "Student",
+    "pay": "৳15k–22k /mo",
+    "posted": 2,
+    "deadline": 14,
+    "featured": false,
+    "required": [
+      "Figma",
+      "HTML",
+      "CSS",
+      "Communication"
+    ],
+    "preferred": [
+      "React",
+      "Problem Solving"
+    ],
+    "benefits": [
+      "Design mentorship",
+      "Remote hours",
+      "Portfolio reviews"
+    ],
+    "summary": "Explore the intersection of interface design, accessibility and real product work.",
+    "responsibilities": [
+      "Create visual explorations",
+      "Prepare reusable UI patterns",
+      "Prototype responsive screens",
+      "Document design decisions"
+    ]
+  },
+  {
+    "id": "op-06",
+    "company": "GreenByte Systems",
+    "mark": "G",
+    "tone": "green",
+    "title": "React Developer (Part-time)",
+    "type": "Part-time",
+    "mode": "Hybrid",
+    "location": "Dhaka",
+    "experience": "Fresh graduate",
+    "pay": "৳20k–32k /mo",
+    "posted": 6,
+    "deadline": 12,
+    "featured": false,
+    "required": [
+      "React",
+      "JavaScript",
+      "CSS",
+      "Git & GitHub"
+    ],
+    "preferred": [
+      "TypeScript",
+      "REST API"
+    ],
+    "benefits": [
+      "Flexible schedule",
+      "Peer learning",
+      "Project ownership"
+    ],
+    "summary": "Ship practical customer-facing interfaces with a small cross-functional team.",
+    "responsibilities": [
+      "Build feature components",
+      "Integrate client-side APIs",
+      "Fix UI defects",
+      "Work in weekly sprints"
+    ]
+  },
+  {
+    "id": "op-07",
+    "company": "DataForge Works",
+    "mark": "D",
+    "tone": "indigo",
+    "title": "Data Analyst Trainee",
+    "type": "Internship",
+    "mode": "On-site",
+    "location": "Dhaka",
+    "experience": "Student",
+    "pay": "৳15k–20k /mo",
+    "posted": 5,
+    "deadline": 26,
+    "featured": false,
+    "required": [
+      "Python",
+      "SQL",
+      "Excel",
+      "Communication"
+    ],
+    "preferred": [
+      "Statistics",
+      "Power BI",
+      "Data Visualization"
+    ],
+    "benefits": [
+      "Real datasets",
+      "Learning sessions",
+      "Career coaching"
+    ],
+    "summary": "Turn messy datasets into useful charts and business-facing insights.",
+    "responsibilities": [
+      "Prepare data quality reports",
+      "Explore structured business data",
+      "Build charts and summaries",
+      "Present findings to mentors"
+    ]
+  },
+  {
+    "id": "op-08",
+    "company": "PixelRoute",
+    "mark": "P",
+    "tone": "amber",
+    "title": "Web Development Intern",
+    "type": "Internship",
+    "mode": "Hybrid",
+    "location": "Sylhet",
+    "experience": "Student",
+    "pay": "৳10k–16k /mo",
+    "posted": 8,
+    "deadline": 5,
+    "featured": false,
+    "required": [
+      "HTML",
+      "CSS",
+      "JavaScript",
+      "Git & GitHub"
+    ],
+    "preferred": [
+      "React",
+      "Figma"
+    ],
+    "benefits": [
+      "Mentorship",
+      "Project certificate",
+      "Friendly culture"
+    ],
+    "summary": "Get hands-on experience building responsive websites and small interactive tools.",
+    "responsibilities": [
+      "Create responsive landing pages",
+      "Improve existing frontend code",
+      "Use Git branches for tasks",
+      "Test pages across devices"
+    ]
+  },
+  {
+    "id": "op-09",
+    "company": "ArcNova Solutions",
+    "mark": "A",
+    "tone": "mint",
+    "title": "Junior Node.js Developer",
+    "type": "Full-time",
+    "mode": "Remote",
+    "location": "Remote",
+    "experience": "1–2 years",
+    "pay": "৳38k–60k /mo",
+    "posted": 1,
+    "deadline": 29,
+    "featured": false,
+    "required": [
+      "Node.js",
+      "Express.js",
+      "REST API",
+      "MongoDB",
+      "Authentication"
+    ],
+    "preferred": [
+      "Docker",
+      "Git & GitHub"
+    ],
+    "benefits": [
+      "Remote first",
+      "Learning budget",
+      "Growth reviews"
+    ],
+    "summary": "Design clean APIs for modern service-oriented web products.",
+    "responsibilities": [
+      "Implement Express routes",
+      "Validate API requests",
+      "Write reliable database operations",
+      "Apply authentication best practices"
+    ]
+  },
+  {
+    "id": "op-10",
+    "company": "Lumina Apps",
+    "mark": "L",
+    "tone": "sky",
+    "title": "Associate Software Engineer",
+    "type": "Full-time",
+    "mode": "On-site",
+    "location": "Khulna",
+    "experience": "Fresh graduate",
+    "pay": "৳28k–45k /mo",
+    "posted": 7,
+    "deadline": 37,
+    "featured": false,
+    "required": [
+      "JavaScript",
+      "React",
+      "Git & GitHub",
+      "Problem Solving"
+    ],
+    "preferred": [
+      "Node.js",
+      "REST API",
+      "MongoDB"
+    ],
+    "benefits": [
+      "Training program",
+      "Annual review",
+      "Team events"
+    ],
+    "summary": "Start your engineering career with structured learning and real software releases.",
+    "responsibilities": [
+      "Implement small product features",
+      "Write maintainable code",
+      "Review feedback with senior engineers",
+      "Support QA testing"
+    ]
+  },
+  {
+    "id": "op-11",
+    "company": "ByteHarbor",
+    "mark": "BH",
+    "tone": "indigo",
+    "title": "Full-Stack Internship",
+    "type": "Internship",
+    "mode": "Remote",
+    "location": "Remote",
+    "experience": "Student",
+    "pay": "৳16k–24k /mo",
+    "posted": 3,
+    "deadline": 10,
+    "featured": true,
+    "required": [
+      "JavaScript",
+      "React",
+      "Node.js",
+      "MongoDB"
+    ],
+    "preferred": [
+      "Express.js",
+      "REST API",
+      "Git & GitHub"
+    ],
+    "benefits": [
+      "Remote mentorship",
+      "Learning stipend",
+      "Team demo days"
+    ],
+    "summary": "Contribute to both user-facing features and simple backend APIs.",
+    "responsibilities": [
+      "Develop React pages",
+      "Integrate API endpoints",
+      "Build backend starter routes",
+      "Present work during sprint demos"
+    ]
+  },
+  {
+    "id": "op-12",
+    "company": "CedarFlow",
+    "mark": "CF",
+    "tone": "green",
+    "title": "QA & Test Automation Trainee",
+    "type": "Internship",
+    "mode": "Hybrid",
+    "location": "Rajshahi",
+    "experience": "Student",
+    "pay": "৳12k–17k /mo",
+    "posted": 11,
+    "deadline": 18,
+    "featured": false,
+    "required": [
+      "JavaScript",
+      "Git & GitHub",
+      "Problem Solving"
+    ],
+    "preferred": [
+      "Testing",
+      "REST API",
+      "Communication"
+    ],
+    "benefits": [
+      "Structured onboarding",
+      "Friendly mentors",
+      "Certificate"
+    ],
+    "summary": "Learn how to protect user experience through thoughtful software testing.",
+    "responsibilities": [
+      "Test UI workflows",
+      "Write bug reports",
+      "Run simple JavaScript tests",
+      "Document reproduction steps"
+    ]
+  },
+  {
+    "id": "op-13",
+    "company": "Northstar Analytics",
+    "mark": "NA",
+    "tone": "violet",
+    "title": "Junior Data Visualization Developer",
+    "type": "Part-time",
+    "mode": "Remote",
+    "location": "Remote",
+    "experience": "Fresh graduate",
+    "pay": "৳22k–35k /mo",
+    "posted": 9,
+    "deadline": 24,
+    "featured": false,
+    "required": [
+      "JavaScript",
+      "React",
+      "Data Visualization",
+      "CSS"
+    ],
+    "preferred": [
+      "Python",
+      "SQL"
+    ],
+    "benefits": [
+      "Flexible hours",
+      "Portfolio-ready work",
+      "Remote collaboration"
+    ],
+    "summary": "Build intuitive, data-rich user interfaces for analytics products.",
+    "responsibilities": [
+      "Turn datasets into clear visuals",
+      "Implement responsive analytics views",
+      "Collaborate with product teams",
+      "Improve chart interactions"
+    ]
+  },
+  {
+    "id": "op-14",
+    "company": "CraftCloud",
+    "mark": "CC",
+    "tone": "peach",
+    "title": "Junior React & UI Developer",
+    "type": "Full-time",
+    "mode": "Hybrid",
+    "location": "Chattogram",
+    "experience": "Fresh graduate",
+    "pay": "৳32k–50k /mo",
+    "posted": 12,
+    "deadline": 33,
+    "featured": false,
+    "required": [
+      "React",
+      "JavaScript",
+      "HTML",
+      "CSS"
+    ],
+    "preferred": [
+      "Git & GitHub",
+      "Figma",
+      "TypeScript"
+    ],
+    "benefits": [
+      "Mentoring",
+      "Medical support",
+      "Flexible start time"
+    ],
+    "summary": "Craft modern web interfaces for a growing digital product studio.",
+    "responsibilities": [
+      "Build React components",
+      "Translate design files into HTML/CSS",
+      "Support UI performance improvements",
+      "Maintain component documentation"
+    ]
+  },
+  {
+    "id": "op-15",
+    "company": "NovaBridge",
+    "mark": "NB",
+    "tone": "amber",
+    "title": "Software Support & Web Intern",
+    "type": "Part-time",
+    "mode": "On-site",
+    "location": "Sylhet",
+    "experience": "Student",
+    "pay": "৳9k–14k /mo",
+    "posted": 13,
+    "deadline": 8,
+    "featured": false,
+    "required": [
+      "HTML",
+      "CSS",
+      "JavaScript",
+      "Communication"
+    ],
+    "preferred": [
+      "Git & GitHub",
+      "React"
+    ],
+    "benefits": [
+      "Hands-on learning",
+      "Flexible classes",
+      "Certificate"
+    ],
+    "summary": "Support website improvements and gain practical exposure to software teams.",
+    "responsibilities": [
+      "Fix simple UI issues",
+      "Support customer-facing teams",
+      "Document UI changes",
+      "Test updates before release"
+    ]
+  }
+]

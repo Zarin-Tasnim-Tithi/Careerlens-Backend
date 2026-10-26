@@ -1,0 +1,426 @@
+{
+  "MERN Developer": {
+    "subtitle": "Build modern web applications from frontend to database.",
+    "category": "Full-stack development",
+    "skills": [
+      {
+        "name": "HTML",
+        "priority": "Low",
+        "summary": "Structure semantic pages",
+        "steps": [
+          "Semantic HTML",
+          "Forms and accessibility",
+          "Build a multipage site"
+        ]
+      },
+      {
+        "name": "CSS",
+        "priority": "Low",
+        "summary": "Create responsive layouts",
+        "steps": [
+          "Flexbox and Grid",
+          "Responsive design",
+          "Build a responsive landing page"
+        ]
+      },
+      {
+        "name": "JavaScript",
+        "priority": "High",
+        "summary": "Master modern JavaScript",
+        "steps": [
+          "Async/await and promises",
+          "ES modules",
+          "Complete a JavaScript mini project"
+        ]
+      },
+      {
+        "name": "React",
+        "priority": "High",
+        "summary": "Build interactive interfaces",
+        "steps": [
+          "React hooks",
+          "Component composition",
+          "Build an interactive dashboard"
+        ]
+      },
+      {
+        "name": "Node.js",
+        "priority": "High",
+        "summary": "Understand backend fundamentals",
+        "steps": [
+          "Node.js runtime and modules",
+          "Asynchronous APIs",
+          "Create a small backend service"
+        ]
+      },
+      {
+        "name": "Express.js",
+        "priority": "High",
+        "summary": "Learn REST API development",
+        "steps": [
+          "Routing and middleware",
+          "Request validation",
+          "Create a REST CRUD API"
+        ]
+      },
+      {
+        "name": "MongoDB",
+        "priority": "Medium",
+        "summary": "Work with document databases",
+        "steps": [
+          "Collections and schema design",
+          "Mongoose relationships",
+          "Connect your API to MongoDB"
+        ]
+      },
+      {
+        "name": "REST API",
+        "priority": "High",
+        "summary": "Design and consume APIs",
+        "steps": [
+          "REST endpoints",
+          "HTTP methods and status codes",
+          "Test routes in Postman"
+        ]
+      },
+      {
+        "name": "Authentication",
+        "priority": "High",
+        "summary": "Implement secure authentication",
+        "steps": [
+          "Password hashing",
+          "JWT and protected routes",
+          "Build login and registration"
+        ]
+      },
+      {
+        "name": "Git & GitHub",
+        "priority": "Medium",
+        "summary": "Collaborate safely with Git",
+        "steps": [
+          "Commits and branching",
+          "Pull requests",
+          "Contribute to a shared project"
+        ]
+      },
+      {
+        "name": "Deployment",
+        "priority": "Medium",
+        "summary": "Publish a full-stack project",
+        "steps": [
+          "Environment variables",
+          "Build and deploy frontend",
+          "Deploy a backend and connect DB"
+        ]
+      },
+      {
+        "name": "Docker",
+        "priority": "Medium",
+        "summary": "Explore deployment basics",
+        "steps": [
+          "Images and containers",
+          "Write a Dockerfile",
+          "Run a sample service"
+        ]
+      }
+    ]
+  },
+  "Frontend Developer": {
+    "subtitle": "Create fast, accessible and delightful user interfaces.",
+    "category": "Frontend development",
+    "skills": [
+      {
+        "name": "HTML",
+        "priority": "High",
+        "summary": "Build accessible document structure",
+        "steps": [
+          "Semantic sections",
+          "Accessible forms",
+          "Audit a sample page"
+        ]
+      },
+      {
+        "name": "CSS",
+        "priority": "High",
+        "summary": "Craft adaptive layouts",
+        "steps": [
+          "Grid and Flexbox",
+          "Responsive patterns",
+          "Advanced CSS transitions"
+        ]
+      },
+      {
+        "name": "JavaScript",
+        "priority": "High",
+        "summary": "Write robust client-side logic",
+        "steps": [
+          "DOM and browser APIs",
+          "Async/await",
+          "Build interactive UI features"
+        ]
+      },
+      {
+        "name": "React",
+        "priority": "High",
+        "summary": "Develop scalable React apps",
+        "steps": [
+          "Hooks and context",
+          "Reusable components",
+          "Build a production-like SPA"
+        ]
+      },
+      {
+        "name": "TypeScript",
+        "priority": "High",
+        "summary": "Add reliable static types",
+        "steps": [
+          "Type fundamentals",
+          "React types",
+          "Convert a React feature"
+        ]
+      },
+      {
+        "name": "Git & GitHub",
+        "priority": "Medium",
+        "summary": "Work in a team repository",
+        "steps": [
+          "Feature branches",
+          "Pull requests",
+          "Code review workflow"
+        ]
+      },
+      {
+        "name": "REST API",
+        "priority": "Medium",
+        "summary": "Integrate backend services",
+        "steps": [
+          "Fetch and Axios",
+          "Loading/error states",
+          "Build an API-driven screen"
+        ]
+      },
+      {
+        "name": "Figma",
+        "priority": "Medium",
+        "summary": "Translate designs into UI",
+        "steps": [
+          "Auto Layout",
+          "Design tokens",
+          "Implement a Figma screen"
+        ]
+      },
+      {
+        "name": "Testing",
+        "priority": "Medium",
+        "summary": "Test user-facing features",
+        "steps": [
+          "Test fundamentals",
+          "Component testing",
+          "Write tests for a feature"
+        ]
+      },
+      {
+        "name": "Deployment",
+        "priority": "Medium",
+        "summary": "Launch frontend applications",
+        "steps": [
+          "Production builds",
+          "Environment variables",
+          "Deploy an SPA"
+        ]
+      }
+    ]
+  },
+  "Backend Developer": {
+    "subtitle": "Design APIs and reliable services behind great products.",
+    "category": "Backend development",
+    "skills": [
+      {
+        "name": "JavaScript",
+        "priority": "High",
+        "summary": "Write server-side JavaScript",
+        "steps": [
+          "Async JavaScript",
+          "Error handling",
+          "Build a small service"
+        ]
+      },
+      {
+        "name": "Node.js",
+        "priority": "High",
+        "summary": "Master Node.js fundamentals",
+        "steps": [
+          "Event loop",
+          "Modules",
+          "File and HTTP APIs"
+        ]
+      },
+      {
+        "name": "Express.js",
+        "priority": "High",
+        "summary": "Build production-like APIs",
+        "steps": [
+          "Routing",
+          "Middleware",
+          "Validation and controllers"
+        ]
+      },
+      {
+        "name": "MongoDB",
+        "priority": "High",
+        "summary": "Model and query data",
+        "steps": [
+          "Mongoose schemas",
+          "Indexes",
+          "Build CRUD operations"
+        ]
+      },
+      {
+        "name": "REST API",
+        "priority": "High",
+        "summary": "Design consistent APIs",
+        "steps": [
+          "Resource design",
+          "Status codes",
+          "Document endpoints"
+        ]
+      },
+      {
+        "name": "Authentication",
+        "priority": "High",
+        "summary": "Protect application access",
+        "steps": [
+          "Password hashing",
+          "JWT flows",
+          "Authorization"
+        ]
+      },
+      {
+        "name": "SQL",
+        "priority": "Medium",
+        "summary": "Understand relational databases",
+        "steps": [
+          "SQL queries",
+          "Relationships",
+          "Design basic schemas"
+        ]
+      },
+      {
+        "name": "Git & GitHub",
+        "priority": "Medium",
+        "summary": "Maintain reliable team workflows",
+        "steps": [
+          "Feature branches",
+          "Pull requests",
+          "Handle merge conflicts"
+        ]
+      },
+      {
+        "name": "Docker",
+        "priority": "Medium",
+        "summary": "Package services for deployment",
+        "steps": [
+          "Containers",
+          "Dockerfiles",
+          "Local multi-service setup"
+        ]
+      },
+      {
+        "name": "Testing",
+        "priority": "Medium",
+        "summary": "Verify backend behavior",
+        "steps": [
+          "Unit tests",
+          "API integration tests",
+          "Test failure scenarios"
+        ]
+      }
+    ]
+  },
+  "Data Analyst": {
+    "subtitle": "Turn data into clear insights and practical decisions.",
+    "category": "Data & analytics",
+    "skills": [
+      {
+        "name": "Excel",
+        "priority": "High",
+        "summary": "Analyze structured datasets",
+        "steps": [
+          "Formulas and pivot tables",
+          "Data cleaning",
+          "Build a report"
+        ]
+      },
+      {
+        "name": "SQL",
+        "priority": "High",
+        "summary": "Query and transform datasets",
+        "steps": [
+          "Joins and filtering",
+          "Aggregations",
+          "Solve analysis queries"
+        ]
+      },
+      {
+        "name": "Python",
+        "priority": "High",
+        "summary": "Automate analysis with Python",
+        "steps": [
+          "Python foundations",
+          "Pandas basics",
+          "Analyze a public dataset"
+        ]
+      },
+      {
+        "name": "Statistics",
+        "priority": "High",
+        "summary": "Interpret patterns with statistics",
+        "steps": [
+          "Distributions",
+          "Hypothesis testing",
+          "Explain a result"
+        ]
+      },
+      {
+        "name": "Power BI",
+        "priority": "Medium",
+        "summary": "Build interactive dashboards",
+        "steps": [
+          "Data modeling",
+          "DAX basics",
+          "Publish an interactive report"
+        ]
+      },
+      {
+        "name": "Data Visualization",
+        "priority": "High",
+        "summary": "Communicate insights effectively",
+        "steps": [
+          "Choosing charts",
+          "Dashboard design",
+          "Tell a story with data"
+        ]
+      },
+      {
+        "name": "Git & GitHub",
+        "priority": "Low",
+        "summary": "Version your work",
+        "steps": [
+          "Git basics",
+          "README files",
+          "Publish a portfolio project"
+        ]
+      },
+      {
+        "name": "Communication",
+        "priority": "Medium",
+        "summary": "Explain analysis to stakeholders",
+        "steps": [
+          "Summaries",
+          "Clear presentations",
+          "Write key insights"
+        ]
+      }
+    ]
+  }
+}

@@ -1,0 +1,28 @@
+// Canonical skill taxonomy seeded into the `skills` collection.
+// Aliases are normalised alternative spellings that map to the same skill (e.g. "ReactJS" -> React).
+module.exports = [
+  { name: 'JavaScript', category: 'Programming', aliases: ['js', 'es6', 'ecmascript'] },
+  { name: 'TypeScript', category: 'Programming', aliases: ['ts'] },
+  { name: 'Python', category: 'Programming', aliases: ['python3'] },
+  { name: 'HTML', category: 'Frontend', aliases: ['html5'] },
+  { name: 'CSS', category: 'Frontend', aliases: ['css3'] },
+  { name: 'React', category: 'Frontend', aliases: ['reactjs', 'react.js'] },
+  { name: 'Figma', category: 'Design', aliases: [] },
+  { name: 'Node.js', category: 'Backend', aliases: ['node', 'nodejs'] },
+  { name: 'Express.js', category: 'Backend', aliases: ['express', 'expressjs'] },
+  { name: 'REST API', category: 'Backend', aliases: ['rest', 'restful api', 'rest apis'] },
+  { name: 'Authentication', category: 'Backend', aliases: ['auth', 'jwt'] },
+  { name: 'Testing', category: 'Tools', aliases: ['unit testing', 'jest'] },
+  { name: 'MongoDB', category: 'Database', aliases: ['mongo', 'mongoose'] },
+  { name: 'SQL', category: 'Database', aliases: ['mysql', 'postgresql', 'postgres'] },
+  { name: 'Git & GitHub', category: 'Tools', aliases: ['git', 'github', 'git and github'] },
+  { name: 'Docker', category: 'Tools', aliases: ['containers'] },
+  { name: 'Deployment', category: 'Tools', aliases: ['devops', 'ci/cd'] },
+  { name: 'Excel', category: 'Data', aliases: ['ms excel', 'microsoft excel'] },
+  { name: 'Statistics', category: 'Data', aliases: ['stats'] },
+  { name: 'Power BI', category: 'Data', aliases: ['powerbi'] },
+  { name: 'Data Visualization', category: 'Data', aliases: ['data visualisation', 'dataviz'] },
+  { name: 'Communication', category: 'Soft Skills', aliases: [] },
+  { name: 'Problem Solving', category: 'Soft Skills', aliases: [] },
+  { name: 'Teamwork', category: 'Soft Skills', aliases: ['collaboration'] },
+];
